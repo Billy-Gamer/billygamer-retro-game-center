@@ -1,0 +1,34 @@
+BILLYGAMER - RETRO GAME CENTER (VERSION ACTUALIZADA)
+
+CONTENIDO
+- index.html: interfaz y catálogo adaptable.
+- manifest.webmanifest: configuración de aplicación web instalable.
+- sw.js: caché para uso sin conexión después de la primera carga.
+- assets/: imágenes de BillyGamer, cuatro ilustraciones de galerías y 26 imágenes individuales (una por ficha), integradas localmente.
+
+CATÁLOGO
+Incluye fichas de juegos clásicos, plataformas, lucha, aventura, estrategia, carreras, deportes y vehículos. Dream League Soccer y Free Fire no están incluidos, según la decisión del usuario.
+
+IMPORTANTE
+Este paquete es un catálogo web/PWA, no una aplicación nativa publicada en Google Play o App Store. No incluye ROMs, BIOS, instaladores ni archivos de juegos comerciales. Las fichas informativas no ejecutan los juegos. Las imágenes de cada ficha son ilustraciones gráficas originales de referencia, no carátulas oficiales ni capturas exactas de los videojuegos; están incluidas localmente y no necesitan Internet. Usa únicamente juegos gratuitos o copias que tengas derecho a utilizar. Algunos títulos contienen terror o violencia y muestran un aviso para revisar su clasificación por edad.
+
+INSTALACIÓN COMO PWA
+Primero debe alojarse el contenido de esta carpeta en un sitio HTTPS.
+
+ANDROID
+1. Abre la dirección HTTPS del proyecto en Chrome.
+2. Abre el menú del navegador.
+3. Selecciona “Instalar aplicación” o “Añadir a pantalla de inicio”, si aparece.
+4. Confirma.
+
+IPHONE / IPAD
+1. Abre la dirección HTTPS del proyecto en Safari.
+2. Pulsa Compartir.
+3. Selecciona “Añadir a pantalla de inicio”.
+4. Confirma.
+
+COMPUTADORA
+Abre la dirección HTTPS en un navegador compatible. Para una prueba local, ejecuta INICIAR_BILLYGAMER.bat en Windows.
+
+NOTA DE COMPATIBILIDAD
+La interfaz es adaptable a Android, iPhone, iPad, tablets y computadoras. La disponibilidad de instalación PWA y el funcionamiento sin conexión dependen del navegador y del dispositivo.

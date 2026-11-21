@@ -1,0 +1,4 @@
+IMÁGENES DE GALERÍA
+- galeria-ps3-ilustrativa.webp: ilustración original generada para BillyGamer, inspirada en géneros de videojuegos 3D de la época PS3.
+- galeria-snes-ilustrativa.webp: ilustración original generada para BillyGamer, en pixel art retro.
+Ambas imágenes se incluyen dentro de assets y se muestran sin conexión. No son carátulas oficiales ni capturas de juegos comerciales.

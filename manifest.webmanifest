@@ -1,0 +1,14 @@
+{
+  "name": "BillyGamer Retro Game Center",
+  "short_name": "BillyGamer",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#050b1b",
+  "theme_color": "#06152f",
+  "description": "Biblioteca y menú de juegos BillyGamer",
+  "orientation": "any",
+  "categories": [
+    "games",
+    "entertainment"
+  ]
+}
